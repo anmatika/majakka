@@ -1,0 +1,33 @@
+.jumbotron{
+    background-color: aliceblue;
+	font-size: 14px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border-radius:20px;
+	margin:0 0 0 0;
+	box-shadow: 0px 0px 20px 4px rgba(119, 119, 119, 0.85);
+	-moz-box-shadow: 0px 0px 20px 4px rgba(119, 119, 119, 0.85);
+	-webkit-box-shadow: 0px 0px 20px 4px rgba(119, 119, 119, 0.85);
+
+
+}
+.logo{
+    float: right;
+}
+a .glyphicon{
+	float: right;
+}
+.jumbotron p {
+ margin-top: 50px;
+}
+.nav .glyphicon{
+    margin-left: 10px;
+}
+footer img {
+}
+
+.vihrea_pohja {
+ background-color: lightgreen !important;
+}
+
+

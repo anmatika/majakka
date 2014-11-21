@@ -1,0 +1,20 @@
+#yhteystiedot { width:320px; }
+#yhteystiedot ol { font-style:italic; font-family:Georgia, Times, serif; font-size:24px; list-style-type: disc}
+#yhteystiedot ol li { }
+#yhteystiedot ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:13px; border-left: 1px solid #999; }
+#yhteystiedot ol li p em { display:block; }
+#yhteystiedot .reittiopas{
+    clear:both;
+}
+#yhteystiedot iframe {
+    background-image: url('../ico/ajax-loader.gif');
+    background-repeat:no-repeat;
+    background-position:center;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    border-radius:20px;
+    margin:10px;
+    box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);;
+}

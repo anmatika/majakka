@@ -1,0 +1,21 @@
+.food{
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+#ruokalista .jumbotron {
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+#ruokalista h4{
+    background:lightGrey;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    border-radius:20px;
+    padding: 10px;
+    margin:0 10 0 0;
+    box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}

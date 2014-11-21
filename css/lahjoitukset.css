@@ -1,0 +1,23 @@
+#lahjoitukset .col-6{		
+
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border-radius:20px;
+	margin:10px;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+
+}
+
+#logot img{
+	position: relative;
+	float: left;
+	margin: 25px;
+	/*height: 75px;
+	width: 240px;*/
+}
+
+.row{
+    margin-bottom: 25px;
+}

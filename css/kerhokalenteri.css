@@ -1,0 +1,31 @@
+#kerhokalenteri {  }
+#kerhokalenteri ul { font-style:italic; font-size:18px; list-style-type:disc}
+#kerhokalenteri ul li { }
+#kerhokalenteri ul li p { padding:8px; font-style:normal; font-size:12px; border-left: 1px solid #999; }
+#kerhokalenteri ul li p em { display:block; }
+.maanantai,
+.tiistai,
+.keskiviikko,
+.torstai,
+.perjantai,
+.lauantai,
+.sunnuntai{
+    margin: 10px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    border-radius:20px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+
+#kerhokalenteri .maanantai,
+#kerhokalenteri .tiistai,
+#kerhokalenteri .keskiviikko,
+#kerhokalenteri .torstai,
+#kerhokalenteri .perjantai,
+#kerhokalenteri .lauantai,
+#kerhokalenteri .sunnuntai{
+    background-color: aliceblue;
+}
